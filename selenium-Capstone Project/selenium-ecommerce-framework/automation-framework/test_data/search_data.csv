@@ -1,0 +1,3 @@
+search_term,expect_results,description
+jeans,true,Matches jeans products
+zzz-nonexistent,false,No product should match

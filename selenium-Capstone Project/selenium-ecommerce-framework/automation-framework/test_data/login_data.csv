@@ -1,0 +1,3 @@
+email,password,expected_result,description
+nobody@example.com,Test@1234,failure,Unregistered email
+nobody@example.com,,failure,Empty password
